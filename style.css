@@ -1,0 +1,32 @@
+{font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;}
+
+header {background-color: #333;
+  color: #fff;
+  padding: 20px;}
+
+h1 {margin: 0;}
+
+main {display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;}
+
+section {width: 300px;
+  margin-bottom: 20px;}
+
+h2 {text-align: center;}
+
+img {width: 100%;
+  height: auto;}
+
+footer {background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;}
+  </main>
+  
+  <footer>
+    <p>&copy; 2021 Книги о программировании</p>
+  </footer>
